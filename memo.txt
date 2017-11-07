@@ -1,0 +1,16 @@
+/Users/apple/miniconda3/envs/gluon
+
+X.reshape((-1, num_inputs))
+256 * 784
+
+
+W
+784 * 10
+
+
+b 10
+
+WX + b
+256 * 10
+
+
