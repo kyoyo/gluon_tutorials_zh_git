@@ -12,7 +12,7 @@ num_examples = 10000
 data_ctx = mx.cpu()
 model_ctx = mx.cpu()
 
-
+nd.norm()
 
 X = nd.random_normal(shape=(num_examples,num_inputs),ctx = data_ctx)
 
